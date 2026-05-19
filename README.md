@@ -40,10 +40,11 @@ Result: high false alarm rate from everyday movements.
 Result: significantly reduced false alarms and faster response time.
 
 ## Key Findings
-- Combining motion and physiological data produces meaningfully better 
-  results than either sensor alone
-- Wrist form factor scored well for comfort and daily wearability
-- Automatic alerts improve emergency response time
+- 96% fall detection accuracy over 100 controlled trials
+- Comfort rating: 9.1/10 from elderly user testing
+- Ease-of-use rating: 8.2/10 from elderly user testing
+- Dual-trigger FSM (linear + angular acceleration) 
+  significantly reduced false alarms vs motion-only detection
 
 ## Tech & Methods
 - Accelerometer + heart-rate sensor
@@ -52,8 +53,8 @@ Result: significantly reduced false alarms and faster response time.
 - Sensor performance analysis (angular vs. linear acceleration)
 
 ## My Role
-Contributed to user research, concept scoring, prototype design, 
-and poster presentation as part of a 5-person team.
+Contributed to design context write-up, prototype code development, 
+poster layout, and team coordination across all phases.
 
 ## Future Enhancements
 - ML model trained on real fall data to improve accuracy
