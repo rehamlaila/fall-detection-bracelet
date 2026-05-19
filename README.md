@@ -7,7 +7,7 @@
 ## Overview
 A wrist-worn smart bracelet that combines accelerometer and heart-rate 
 sensor data to automatically detect falls in elderly users and send 
-emergency alerts to caregivers — no button press required.
+emergency alerts to caregivers no button press required.
 
 ## The Problem
 Elderly individuals fear falling and going unnoticed. Existing devices 
